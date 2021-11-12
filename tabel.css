@@ -80,14 +80,3 @@ tr:nth-child(1){background-color:white; color: black;}
 body{
     background-color: lightgray;
 }
-.intro{
-    margin: 50px auto;
-    border: 2px solid;
-    width: 1000px;
-    background-color: lightcyan;
-    border-radius: 20px;
-    text-align: center;
-    padding: 20px;
-    font-size: 25px;
-    height: fit-content;
-}
