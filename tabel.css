@@ -80,3 +80,18 @@ tr:nth-child(1){background-color:white; color: black;}
 body{
     background-color: lightgray;
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
+.sidfot{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    width: 100%;
+    height: 100px;
+    background-color: lightblue;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    bottom: 0px;
+}
